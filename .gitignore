@@ -1,0 +1,8 @@
+# created by gitignorer
+# profile used: default
+
+node_modules
+dist
+.cache
+package-lock.json
+.eslintrc.js
